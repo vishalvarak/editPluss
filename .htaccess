@@ -1,0 +1,5 @@
+#set link auto on
+Options +FollowSymLinks -MultiViews
+DirectoryIndex index.php
+DirectoryIndex index.html
+Options -Indexes
